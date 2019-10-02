@@ -1,6 +1,6 @@
 # Portfolio de Rémy BENALOUANE
 
-##### Objectifs :
+#### Objectifs :
 ###### 1. Mettre en oeuvre les technologiess web pour créer et héberger mon portfolio
  
 ![image logo netbean](image/NetBean.png)

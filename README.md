@@ -5,9 +5,9 @@
  
 ![image logo netbean](./image/NetBean.png)
 
-![image logo html 5](image/HTML.png)
+![image logo html 5](HTML.png)
 
-![image logo css](image/CSS.png)
+![image logo css](/image/CSS.png)
 
 ![image logo bootstrap](image/Bootstrap.png)
 

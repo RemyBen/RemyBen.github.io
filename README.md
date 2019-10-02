@@ -3,7 +3,7 @@
 ### Objectifs :
 ###### 1. Mettre en oeuvre les technologiess web pour créer et héberger mon portfolio
  
-![image logo netbean](image/NetBean.png)
+![image logo netbean](./image/NetBean.png)
 
 ![image logo html 5](image/HTML.png)
 

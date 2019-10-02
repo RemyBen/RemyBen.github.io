@@ -3,17 +3,17 @@
 ### Objectifs :
 ###### 1. Mettre en oeuvre les technologiess web pour créer et héberger mon portfolio
  
-![image logo netbean](./image/NetBean.png)
+![image logo netbean](/image/NetBean.png)
 
-![image logo html 5](HTML.png)
+![image logo html 5](/image/HTML.png)
 
 ![image logo css](/image/CSS.png)
 
-![image logo bootstrap](image/Bootstrap.png)
+![image logo bootstrap](/image/Bootstrap.png)
 
-![image logo git](image/Git.png)
+![image logo git](/image/Git.png)
 
-![image logo github](image/GitHub.png)
+![image logo github](/image/GitHub.png)
 
  - **NetBeans :**  Environnement de développement intégré (IDE) utilisé pour ce sujet
  - **HTML :** Langage de description utilisé pour concevoir les pages web

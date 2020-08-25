@@ -7,13 +7,13 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="image html" width="200"/>
 
-![image logo css](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/170px-CSS3_logo_and_wordmark.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/170px-CSS3_logo_and_wordmark.svg.png" alt="image css" width="200"/>
 
-![image logo bootstrap](https://www.publi-media.net/wp-content/uploads/2014/06/logo-bootstrap.png)
+<img src="https://www.publi-media.net/wp-content/uploads/2014/06/logo-bootstrap.png" alt="image bootstrap" width="200"/>
 
-![image logo git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" alt="image git" width="200"/>
 
-![image logo github](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="image github" width="200"/>
 
  - **NetBeans :**  Environnement de développement intégré (IDE) utilisé pour ce sujet
  - **HTML :** Langage de description utilisé pour concevoir les pages web

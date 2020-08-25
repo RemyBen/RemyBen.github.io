@@ -3,7 +3,7 @@
 ### Objectifs :
 ###### 1. Mettre en oeuvre les technologiess web pour créer et héberger mon portfolio
 
-| First Header  | Second Header | First Header  | Second Header | First Header  | Second Header |
+| Netbean  | HTML | CSS  | Bootstrap | Git  | Github |
 | ------------- | ------------- | ------------- | --------------| ------------- | ------------- |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="image netbean" width="200"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="image html" width="200"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/170px-CSS3_logo_and_wordmark.svg.png" alt="image css" width="200"/> | <img src="https://www.publi-media.net/wp-content/uploads/2014/06/logo-bootstrap.png" alt="image bootstrap" width="200"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" alt="image git" width="200"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="image github" width="200"/> |
 

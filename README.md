@@ -5,15 +5,15 @@
  
 ![image logo netbean](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png)
 
-![image logo html 5](/image/HTML.png)
+![image logo html 5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png)
 
-![image logo css](/image/CSS.png)
+![image logo css](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/170px-CSS3_logo_and_wordmark.svg.png)
 
-![image logo bootstrap](/image/Bootstrap.png)
+![image logo bootstrap](https://www.publi-media.net/wp-content/uploads/2014/06/logo-bootstrap.png)
 
-![image logo git](/image/Git.png)
+![image logo git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png)
 
-![image logo github](/image/GitHub.png)
+![image logo github](https://img2.freepng.fr/20180514/gae/kisspng-github-logo-repository-computer-icons-5afa376c2582d9.9650908015263476281537.jpg)
 
  - **NetBeans :**  Environnement de développement intégré (IDE) utilisé pour ce sujet
  - **HTML :** Langage de description utilisé pour concevoir les pages web

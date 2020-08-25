@@ -2,12 +2,6 @@
 
 ### Objectifs :
 ###### 1. Mettre en oeuvre les technologiess web pour créer et héberger mon portfolio
-
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="image netbean" width="200"/>
 

@@ -13,7 +13,7 @@
 
 ![image logo git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png)
 
-![image logo github](https://img2.freepng.fr/20180514/gae/kisspng-github-logo-repository-computer-icons-5afa376c2582d9.9650908015263476281537.jpg)
+![image logo github](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png)
 
  - **NetBeans :**  Environnement de développement intégré (IDE) utilisé pour ce sujet
  - **HTML :** Langage de description utilisé pour concevoir les pages web
